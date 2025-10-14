@@ -1,0 +1,1 @@
+This is a dummy file. It serves no purpose other than to allow creation of the result folder
