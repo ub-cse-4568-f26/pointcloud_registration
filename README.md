@@ -31,7 +31,7 @@ Finally, you will evaluate the quality of your aligned point cloud with the refe
 ### Resources
 
 - [Location 0/1 Plys](https://buffalo.box.com/s/tdcjspsf2nksfb480va4ld5xs4ht849g)
-- [CloudCompare](https://cloudcompare-org.danielgm.net/release/)
+- [CloudCompare](https://www.cloudcompare.org/release/)
 - [Open3D](https://www.open3d.org/docs/release/)
 - [Open3D ICP Matching](https://www.open3d.org/docs/release/tutorial/pipelines/icp_registration.html)
 - [Open3D Global Registration](https://www.open3d.org/docs/release/tutorial/pipelines/global_registration.html)
